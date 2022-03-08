@@ -1,0 +1,9 @@
+name: aws-iam-user
+type: terraform
+description: Module to provision iam-user on aws
+tags:
+  - tools
+  - devops
+versions: []
+cloudProvider: aws
+id: github.com/cloud-native-toolkit/terraform-aws-iam-user
